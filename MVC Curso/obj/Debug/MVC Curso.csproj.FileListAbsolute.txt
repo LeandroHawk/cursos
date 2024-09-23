@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\obj\Debug\MVC Curso.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\obj\Debug\MVC Curso.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\bin\Debug\MVC Curso.exe.config
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\bin\Debug\MVC Curso.exe
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\bin\Debug\MVC Curso.pdb
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\obj\Debug\MVC Curso.exe
+C:\Users\aluno\source\repos\MVC Curso\MVC Curso\obj\Debug\MVC Curso.pdb
